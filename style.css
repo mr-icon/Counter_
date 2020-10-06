@@ -1,0 +1,15 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    margin-top:10%;
+    font-size: 40px;
+    background-color: lightgray;
+    color:gray
+}
+button{
+    margin-right:20px;
+    padding:0.6em 2.2em;
+    font-size:20px;
+    border-radius:10px;
+    color:gray
+}
